@@ -1,0 +1,19 @@
+{
+  "name": "opencv-facedemo",
+  "version": "1.0.0",
+  "description": "Face detection in Node.js with Open CV",
+  "main": "index.js",
+  "author": "Paul Langdon",
+  "license": "",
+  "dependencies": {
+    "async": "^1.4.2",
+    "busboy": "^0.2.9",
+    "connect-busboy": "0.0.2",
+    "easyimage": "^2.1.0",
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1",
+    "lodash": "^3.10.1",
+    "multer": "^1.0.3",
+    "opencv": "github:plangdon/OpenCV-FaceDemo"
+  }
+}
